@@ -95,7 +95,6 @@ pip install pandas numpy scipy scikit-learn seaborn matplotlib openpyxl joblib j
 jupyter notebook Financess_ML-Project.ipynb
 ```
 
-Update the file paths at the top of the notebook to point to where you keep the data.
 
 ## Author
 
